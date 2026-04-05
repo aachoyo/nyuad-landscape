@@ -29,6 +29,8 @@ The pipeline has four main stages:
 
 The final output is an interactive Plotly chart saved as `index.html`. Hover over any dot to see the professor's name, job title, faculty division, and research interests.
 
+Interactive website: https://aachoyo.github.io/nyuad-landscape/
+
 ---
 
 ## Files
